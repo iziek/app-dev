@@ -1,6 +1,4 @@
-# app-dev
-
-My first repository
+# Write some information about your favorite series/movie
 
 **Cars** *2006*
 1. Lightning McQueen
